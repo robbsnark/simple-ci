@@ -211,3 +211,9 @@ git branch -d feature/version
 exit
 git init
 exit
+git remote add origin https://github.com/robbsnark/simple-ci.git
+git status
+git add
+git add .
+git rm --cached devops-lab3
+exit

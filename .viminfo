@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1778965440,,"wq"
+|2,0,1780399738,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,20 +28,20 @@
 |3,0,32,0,1,0,1778964680,"€ýa"
 
 # File marks:
-'0  2  0  ~/devops-lab3/app.py
-|4,48,2,0,1778965440,"~/devops-lab3/app.py"
-'1  2  19  ~/devops-lab3/app.py
-|4,49,2,19,1778965223,"~/devops-lab3/app.py"
-'2  4  47  ~/devops-lab3/app.py
-|4,50,4,47,1778965047,"~/devops-lab3/app.py"
+'0  3  30  ~/README.md
+|4,48,3,30,1780399738,"~/README.md"
+'1  2  0  ~/devops-lab3/app.py
+|4,49,2,0,1778965440,"~/devops-lab3/app.py"
+'2  2  19  ~/devops-lab3/app.py
+|4,50,2,19,1778965223,"~/devops-lab3/app.py"
 '3  4  47  ~/devops-lab3/app.py
 |4,51,4,47,1778965047,"~/devops-lab3/app.py"
-'4  9  24  ~/devops-lab3/app.py
-|4,52,9,24,1778965047,"~/devops-lab3/app.py"
+'4  4  47  ~/devops-lab3/app.py
+|4,52,4,47,1778965047,"~/devops-lab3/app.py"
 '5  9  24  ~/devops-lab3/app.py
 |4,53,9,24,1778965047,"~/devops-lab3/app.py"
-'6  2  27  ~/devops-lab3/app.py
-|4,54,2,27,1778964999,"~/devops-lab3/app.py"
+'6  9  24  ~/devops-lab3/app.py
+|4,54,9,24,1778965047,"~/devops-lab3/app.py"
 '7  2  27  ~/devops-lab3/app.py
 |4,55,2,27,1778964999,"~/devops-lab3/app.py"
 '8  2  27  ~/devops-lab3/app.py
@@ -50,14 +50,32 @@
 |4,57,2,27,1778964999,"~/devops-lab3/app.py"
 
 # Jumplist (newest first):
+-'  3  30  ~/README.md
+|4,39,3,30,1780399738,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1780399708,"~/README.md"
 -'  2  0  ~/devops-lab3/app.py
 |4,39,2,0,1778965440,"~/devops-lab3/app.py"
+-'  2  0  ~/devops-lab3/app.py
+|4,39,2,0,1778965440,"~/devops-lab3/app.py"
+-'  2  19  ~/devops-lab3/app.py
+|4,39,2,19,1778965223,"~/devops-lab3/app.py"
 -'  2  19  ~/devops-lab3/app.py
 |4,39,2,19,1778965223,"~/devops-lab3/app.py"
 -'  1  0  ~/devops-lab3/app.py
 |4,39,1,0,1778965185,"~/devops-lab3/app.py"
 -'  1  0  ~/devops-lab3/app.py
 |4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  4  47  ~/devops-lab3/app.py
+|4,39,4,47,1778965047,"~/devops-lab3/app.py"
+-'  9  24  ~/devops-lab3/app.py
+|4,39,9,24,1778965047,"~/devops-lab3/app.py"
+-'  9  24  ~/devops-lab3/app.py
+|4,39,9,24,1778965047,"~/devops-lab3/app.py"
 -'  4  47  ~/devops-lab3/app.py
 |4,39,4,47,1778965047,"~/devops-lab3/app.py"
 -'  9  24  ~/devops-lab3/app.py
@@ -69,6 +87,12 @@
 -'  3  15  ~/devops-lab3/app.py
 |4,39,3,15,1778965010,"~/devops-lab3/app.py"
 -'  3  15  ~/devops-lab3/app.py
+|4,39,3,15,1778965010,"~/devops-lab3/app.py"
+-'  3  15  ~/devops-lab3/app.py
+|4,39,3,15,1778965010,"~/devops-lab3/app.py"
+-'  3  15  ~/devops-lab3/app.py
+|4,39,3,15,1778964999,"~/devops-lab3/app.py"
+-'  3  15  ~/devops-lab3/app.py
 |4,39,3,15,1778964999,"~/devops-lab3/app.py"
 -'  6  9  ~/devops-lab3/app.py
 |4,39,6,9,1778964977,"~/devops-lab3/app.py"
@@ -77,7 +101,21 @@
 -'  6  9  ~/devops-lab3/app.py
 |4,39,6,9,1778964977,"~/devops-lab3/app.py"
 -'  6  9  ~/devops-lab3/app.py
+|4,39,6,9,1778964977,"~/devops-lab3/app.py"
+-'  6  9  ~/devops-lab3/app.py
+|4,39,6,9,1778964977,"~/devops-lab3/app.py"
+-'  6  9  ~/devops-lab3/app.py
+|4,39,6,9,1778964977,"~/devops-lab3/app.py"
+-'  6  9  ~/devops-lab3/app.py
 |4,39,6,9,1778964753,"~/devops-lab3/app.py"
+-'  6  9  ~/devops-lab3/app.py
+|4,39,6,9,1778964753,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778964605,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778964605,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778964605,"~/devops-lab3/app.py"
 -'  1  0  ~/devops-lab3/app.py
 |4,39,1,0,1778964605,"~/devops-lab3/app.py"
 -'  1  0  ~/devops-lab3/app.py
@@ -86,6 +124,14 @@
 |4,39,1,0,1778964605,"~/devops-lab3/app.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/README.md
+	*	1780399734	0
+	"	3	30
+	^	3	31
+	.	3	30
+	+	4	0
+	+	3	30
 
 > ~/devops-lab3/app.py
 	*	1778965437	0

@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1780401624,,"wq"
 :q
 |2,0,1780401561,,"q"
-:wq
-|2,0,1780399738,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -30,34 +30,50 @@
 |3,0,32,0,1,0,1778964680,"€ýa"
 
 # File marks:
-'0  1  0  ~/.gitmodules
-|4,48,1,0,1780401561,"~/.gitmodules"
-'1  2  0  ~/devops-lab3/app.py
-|4,49,2,0,1780401238,"~/devops-lab3/app.py"
-'2  3  30  ~/README.md
-|4,50,3,30,1780399738,"~/README.md"
-'3  2  0  ~/devops-lab3/app.py
-|4,51,2,0,1778965440,"~/devops-lab3/app.py"
-'4  2  19  ~/devops-lab3/app.py
-|4,52,2,19,1778965223,"~/devops-lab3/app.py"
+'0  1  2  ~/.git/COMMIT_EDITMSG
+|4,48,1,2,1780401624,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/.gitmodules
+|4,49,1,0,1780401561,"~/.gitmodules"
+'2  2  0  ~/devops-lab3/app.py
+|4,50,2,0,1780401238,"~/devops-lab3/app.py"
+'3  3  30  ~/README.md
+|4,51,3,30,1780399738,"~/README.md"
+'4  2  0  ~/devops-lab3/app.py
+|4,52,2,0,1778965440,"~/devops-lab3/app.py"
 '5  2  19  ~/devops-lab3/app.py
 |4,53,2,19,1778965223,"~/devops-lab3/app.py"
-'6  4  47  ~/devops-lab3/app.py
-|4,54,4,47,1778965047,"~/devops-lab3/app.py"
+'6  2  19  ~/devops-lab3/app.py
+|4,54,2,19,1778965223,"~/devops-lab3/app.py"
 '7  4  47  ~/devops-lab3/app.py
 |4,55,4,47,1778965047,"~/devops-lab3/app.py"
-'8  9  24  ~/devops-lab3/app.py
-|4,56,9,24,1778965047,"~/devops-lab3/app.py"
+'8  4  47  ~/devops-lab3/app.py
+|4,56,4,47,1778965047,"~/devops-lab3/app.py"
 '9  9  24  ~/devops-lab3/app.py
 |4,57,9,24,1778965047,"~/devops-lab3/app.py"
 
 # Jumplist (newest first):
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1780401624,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.gitmodules
+|4,39,1,0,1780401561,"~/.gitmodules"
 -'  1  0  ~/.gitmodules
 |4,39,1,0,1780401561,"~/.gitmodules"
 -'  2  0  ~/devops-lab3/app.py
 |4,39,2,0,1780401238,"~/devops-lab3/app.py"
 -'  2  0  ~/devops-lab3/app.py
 |4,39,2,0,1780401238,"~/devops-lab3/app.py"
+-'  2  0  ~/devops-lab3/app.py
+|4,39,2,0,1780401238,"~/devops-lab3/app.py"
+-'  2  0  ~/devops-lab3/app.py
+|4,39,2,0,1780401238,"~/devops-lab3/app.py"
+-'  3  30  ~/README.md
+|4,39,3,30,1780399738,"~/README.md"
+-'  3  30  ~/README.md
+|4,39,3,30,1780399738,"~/README.md"
+-'  3  30  ~/README.md
+|4,39,3,30,1780399738,"~/README.md"
+-'  3  30  ~/README.md
+|4,39,3,30,1780399738,"~/README.md"
 -'  3  30  ~/README.md
 |4,39,3,30,1780399738,"~/README.md"
 -'  3  30  ~/README.md
@@ -74,6 +90,14 @@
 |4,39,1,0,1780399708,"~/README.md"
 -'  1  0  ~/README.md
 |4,39,1,0,1780399708,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1780399708,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1780399708,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1780399708,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1780399708,"~/README.md"
 -'  2  0  ~/devops-lab3/app.py
 |4,39,2,0,1778965440,"~/devops-lab3/app.py"
 -'  2  0  ~/devops-lab3/app.py
@@ -82,6 +106,22 @@
 |4,39,2,0,1778965440,"~/devops-lab3/app.py"
 -'  2  0  ~/devops-lab3/app.py
 |4,39,2,0,1778965440,"~/devops-lab3/app.py"
+-'  2  0  ~/devops-lab3/app.py
+|4,39,2,0,1778965440,"~/devops-lab3/app.py"
+-'  2  0  ~/devops-lab3/app.py
+|4,39,2,0,1778965440,"~/devops-lab3/app.py"
+-'  2  0  ~/devops-lab3/app.py
+|4,39,2,0,1778965440,"~/devops-lab3/app.py"
+-'  2  0  ~/devops-lab3/app.py
+|4,39,2,0,1778965440,"~/devops-lab3/app.py"
+-'  2  19  ~/devops-lab3/app.py
+|4,39,2,19,1778965223,"~/devops-lab3/app.py"
+-'  2  19  ~/devops-lab3/app.py
+|4,39,2,19,1778965223,"~/devops-lab3/app.py"
+-'  2  19  ~/devops-lab3/app.py
+|4,39,2,19,1778965223,"~/devops-lab3/app.py"
+-'  2  19  ~/devops-lab3/app.py
+|4,39,2,19,1778965223,"~/devops-lab3/app.py"
 -'  2  19  ~/devops-lab3/app.py
 |4,39,2,19,1778965223,"~/devops-lab3/app.py"
 -'  2  19  ~/devops-lab3/app.py
@@ -110,6 +150,58 @@
 |4,39,1,0,1778965185,"~/devops-lab3/app.py"
 -'  1  0  ~/devops-lab3/app.py
 |4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  1  0  ~/devops-lab3/app.py
+|4,39,1,0,1778965185,"~/devops-lab3/app.py"
+-'  4  47  ~/devops-lab3/app.py
+|4,39,4,47,1778965047,"~/devops-lab3/app.py"
+-'  9  24  ~/devops-lab3/app.py
+|4,39,9,24,1778965047,"~/devops-lab3/app.py"
+-'  4  47  ~/devops-lab3/app.py
+|4,39,4,47,1778965047,"~/devops-lab3/app.py"
+-'  9  24  ~/devops-lab3/app.py
+|4,39,9,24,1778965047,"~/devops-lab3/app.py"
+-'  9  24  ~/devops-lab3/app.py
+|4,39,9,24,1778965047,"~/devops-lab3/app.py"
+-'  4  47  ~/devops-lab3/app.py
+|4,39,4,47,1778965047,"~/devops-lab3/app.py"
+-'  9  24  ~/devops-lab3/app.py
+|4,39,9,24,1778965047,"~/devops-lab3/app.py"
+-'  9  24  ~/devops-lab3/app.py
+|4,39,9,24,1778965047,"~/devops-lab3/app.py"
+-'  4  47  ~/devops-lab3/app.py
+|4,39,4,47,1778965047,"~/devops-lab3/app.py"
+-'  9  24  ~/devops-lab3/app.py
+|4,39,9,24,1778965047,"~/devops-lab3/app.py"
+-'  4  47  ~/devops-lab3/app.py
+|4,39,4,47,1778965047,"~/devops-lab3/app.py"
+-'  9  24  ~/devops-lab3/app.py
+|4,39,9,24,1778965047,"~/devops-lab3/app.py"
+-'  9  24  ~/devops-lab3/app.py
+|4,39,9,24,1778965047,"~/devops-lab3/app.py"
+-'  4  47  ~/devops-lab3/app.py
+|4,39,4,47,1778965047,"~/devops-lab3/app.py"
+-'  9  24  ~/devops-lab3/app.py
+|4,39,9,24,1778965047,"~/devops-lab3/app.py"
+-'  9  24  ~/devops-lab3/app.py
+|4,39,9,24,1778965047,"~/devops-lab3/app.py"
 -'  4  47  ~/devops-lab3/app.py
 |4,39,4,47,1778965047,"~/devops-lab3/app.py"
 -'  9  24  ~/devops-lab3/app.py
@@ -160,78 +252,15 @@
 |4,39,3,15,1778965010,"~/devops-lab3/app.py"
 -'  3  15  ~/devops-lab3/app.py
 |4,39,3,15,1778965010,"~/devops-lab3/app.py"
--'  3  15  ~/devops-lab3/app.py
-|4,39,3,15,1778965010,"~/devops-lab3/app.py"
--'  3  15  ~/devops-lab3/app.py
-|4,39,3,15,1778964999,"~/devops-lab3/app.py"
--'  3  15  ~/devops-lab3/app.py
-|4,39,3,15,1778964999,"~/devops-lab3/app.py"
--'  3  15  ~/devops-lab3/app.py
-|4,39,3,15,1778964999,"~/devops-lab3/app.py"
--'  3  15  ~/devops-lab3/app.py
-|4,39,3,15,1778964999,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964977,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964753,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964753,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964753,"~/devops-lab3/app.py"
--'  6  9  ~/devops-lab3/app.py
-|4,39,6,9,1778964753,"~/devops-lab3/app.py"
--'  1  0  ~/devops-lab3/app.py
-|4,39,1,0,1778964605,"~/devops-lab3/app.py"
--'  1  0  ~/devops-lab3/app.py
-|4,39,1,0,1778964605,"~/devops-lab3/app.py"
--'  1  0  ~/devops-lab3/app.py
-|4,39,1,0,1778964605,"~/devops-lab3/app.py"
--'  1  0  ~/devops-lab3/app.py
-|4,39,1,0,1778964605,"~/devops-lab3/app.py"
--'  1  0  ~/devops-lab3/app.py
-|4,39,1,0,1778964605,"~/devops-lab3/app.py"
--'  1  0  ~/devops-lab3/app.py
-|4,39,1,0,1778964605,"~/devops-lab3/app.py"
--'  1  0  ~/devops-lab3/app.py
-|4,39,1,0,1778964605,"~/devops-lab3/app.py"
--'  1  0  ~/devops-lab3/app.py
-|4,39,1,0,1778964605,"~/devops-lab3/app.py"
--'  1  0  ~/devops-lab3/app.py
-|4,39,1,0,1778964605,"~/devops-lab3/app.py"
--'  1  0  ~/devops-lab3/app.py
-|4,39,1,0,1778964605,"~/devops-lab3/app.py"
--'  1  0  ~/devops-lab3/app.py
-|4,39,1,0,1778964605,"~/devops-lab3/app.py"
--'  1  0  ~/devops-lab3/app.py
-|4,39,1,0,1778964605,"~/devops-lab3/app.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1780401622	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
 
 > ~/.gitmodules
 	*	1780401560	0
